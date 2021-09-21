@@ -113,6 +113,7 @@ a {
   border-radius: 50%;
   width: 130px;
   height: 130px;
+  object-fit: cover;
 }
 @media (max-width: 1500px) {
   .profile .picture-resume img {
